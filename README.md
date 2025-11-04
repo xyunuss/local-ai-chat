@@ -8,12 +8,14 @@ Er nutzt **Ollama** als Backend, um LLMs lokal laufen zu lassen – **ohne API-K
 ## Demo
 
 Darkmode
-![Screenshot der Chat-UI](assets/screenshot_ui_whitemode.png)
+
+![Screenshot der Chat-UI](assets/screenshot_ui.png)
+
 ---
 
 Whitemode + Modellauswahl
 
-![Screenshot der Chat-UI](assets/screenshot_ui.png)
+![Screenshot der Chat-UI](assets/screenshot_ui_whitemode.png)
 
 ## 🚀 Funktionen
 - 🧠 Chat mit lokalem KI-Modell (Ollama)
