@@ -37,7 +37,7 @@ Er kombiniert eine minimalistische Weboberfläche mit **Ollama** als Backend, um
 |----------|---------------|
 | **Frontend** | HTML, CSS, Vanilla JS, marked.js, Material Icons |
 | **Backend** | Python, Flask, Flask-CORS, Requests, PyPDF2 |
-| **KI-Engine** | Ollama (lokal auf GPU/CPU) – z. B. LLaMA 3, Mistral, Gemma 2 |
+| **KI-Engine** | Ollama (lokal auf GPU/CPU) – z. B. LLaMA 3, deepseek-coder, gpt-oss |
 ---
 
 ## ⚙️ Installation & Setup
