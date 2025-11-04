@@ -20,14 +20,14 @@ Er kombiniert eine minimalistische Weboberfläche mit **Ollama** als Backend, um
 
 ## 🚀 Funktionen
 
-- 🧠 **Chat mit lokalem KI-Modell (Ollama)**
-- ⚡ **Läuft vollständig auf der eigenen GPU / CPU**  
+-  **Chat mit lokalem KI-Modell (Ollama)**
+-  **Läuft vollständig auf der eigenen GPU / CPU**  
   → keine Internetverbindung oder Cloud-Abhängigkeit
-- 📄 **Datei-Upload (PDF, TXT, DOCX)** mit automatischer Textextraktion  
-- 💬 **Echtzeit-Streaming** der Antworten (Zeichenweise wie bei ChatGPT)  
-- 🌓 **Dark-/Lightmode** mit Themespeicherung  
-- 🧱 **100 % lokal & datensicher**
-- 🔍 **Markdown-Unterstützung** (Codeblöcke, Listen, Formatierungen)
+-  **Datei-Upload (PDF, TXT, DOCX)** mit automatischer Textextraktion  
+-  **Echtzeit-Streaming** der Antworten (Zeichenweise wie bei ChatGPT)  
+-  **Dark-/Lightmode** mit Themespeicherung  
+-  **100 % lokal & datensicher**
+-  **Markdown-Unterstützung** (Codeblöcke, Listen, Formatierungen)
 
 ---
 
@@ -53,7 +53,7 @@ Bibliothek für weitere Modelle: https://ollama.com/library
 3. **Projekt starten**
    ```bash
     # Repository klonen
-    git clone https://github.com/<dein-github-name>/lokaler-ki-chat.git
+    git clone https://github.com/xyunuss/lokaler-ki-chat
     cd lokaler-ki-chat
 
     # Abhängigkeiten
