@@ -21,6 +21,8 @@ Er kombiniert eine minimalistische Weboberfläche mit **Ollama** als Backend, um
 ## 🚀 Funktionen
 
 -  **Chat mit lokalem KI-Modell (Ollama)**
+-  **Dauerhafter Chatkontext** – der gesamte Verlauf wird bei jeder Anfrage mitgeschickt  
+  → das Modell kann sich auf vorherige Nachrichten beziehen  
 -  **Läuft vollständig auf der eigenen GPU / CPU**  
   → keine Internetverbindung oder Cloud-Abhängigkeit
 -  **PDF Datei-Upload** mit automatischer Textextraktion  
